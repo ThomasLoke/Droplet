@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{Alder1959}
+B.~J. Alder and T.~E. Wainwright.
+\newblock Studies in {M}olecular {D}ynamics. {I}. {G}eneral {M}ethod.
+\newblock {\em The Journal of Chemical Physics}, 31:459--466, 1959.
+
+\bibitem{Okumura2008}
+H.~Okumura and Y.~Okamoto.
+\newblock Temperature and {P}ressure {D}ependence of {A}lanine {D}ipeptide
+  {S}tudied by {M}ultibaric-{M}ultithermal {M}olecular {D}ynamics
+  {S}imulations.
+\newblock {\em Journal of Chemical Physics B}, 112:12038--12049, 2008.
+
+\bibitem{Cleri1993}
+F.~Cleri and V.~Rosato.
+\newblock Tight-binding potentials for transition metals and alloys.
+\newblock {\em Physical Review B}, 48:22--33, 1993.
+
+\bibitem{Nose1984}
+S.~Nose.
+\newblock A unified formulation of the constant temperature molecular-dynamics
+  methods.
+\newblock {\em Journal of Chemical Physics}, 81:511--519, 1984.
+
+\bibitem{Hoover1985}
+W.G. Hoover.
+\newblock Canonical dynamics: {E}quilibrium phase-space distributions.
+\newblock {\em Physical Review A}, 31:1695--1697, 1985.
+
+\bibitem{watercycle}
+United States~Geological Survey.
+\newblock The water cycle.
+\newblock \url{http://ga.water.usgs.gov/edu/watercycle.html}.
+
+\bibitem{OkumuraNotes}
+H.~Okumura.
+\newblock Introduction to {B}iomolecular {S}imulation.
+\newblock Lecture notes.
+
+\end{thebibliography}
