@@ -4,3 +4,9 @@ Parameters of the atmospheric model are set in the param.txt file (refer to the 
 
 Requirements:
 Compile on a UNIX system using the Makefile, with GLUT libraries installed (see Libraries.h file for required libraries).
+
+Results:
+See Presentation/droplet_vid.wmv (warning: 46.8MB in size) for a demonstration of the program results.
+
+Shoutouts:
+Many thanks to A/Prof. Hisashi Okumura from the Institute of Molecular Science in Okazaki, Japan for supervising me for the duration of the EXODASS project!!
